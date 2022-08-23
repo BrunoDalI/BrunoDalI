@@ -1,4 +1,4 @@
-### Hi there 👋 (Updating ....)
+### Hi there 👋✌
 
 
 - 🐱‍👤 I'm currently working as a web/mobile/desktop app developer on Flutter
