@@ -1,7 +1,7 @@
 ### Hi there 👋✌
 
 
-- 🐱‍👤 I am currently working as a web/mobile/desktop application developer on Flutter and Treinee Full Stack Html/PHP/JavaScript.
+- 🐱‍👤 I am currently working as a web/mobile/desktop application developer on Flutter/React-native and Treinee Full Stack Html/PHP/JavaScript.
 - 🌱 I'm currently learning Flutter/PHP/JavaScript/MySQL/Python/English ...
 - 📫 How to reach me: brunodall_@hotmail.com or https://www.linkedin.com/in/bruno-dall-41718b168/
 - ⚡ Curiosities: Studying Computer Science 8/8.
@@ -32,6 +32,8 @@
   
   <h3>Database:</h3>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+
   
 <!--   <h3>Framework:</h3>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg"/>
