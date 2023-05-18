@@ -4,7 +4,7 @@
 - 🐱‍👤 I am currently working as a web/mobile/desktop application developer on Flutter/React-native and Treinee Full Stack Html/PHP/JavaScript.
 - 🌱 I'm currently learning Flutter/PHP/JavaScript/MySQL/Python/English ...
 - 📫 How to reach me: brunodall_@hotmail.com or https://www.linkedin.com/in/bruno-dall-41718b168/
-- ⚡ Curiosities: Studying Computer Science 8/8.
+- ⚡ Curiosities: Graduated in Computer Science.
 - ✔  Certificates: https://drive.google.com/drive/folders/1pGkLN1360UFIHd8Sl8M3NDzVC-UNsghl?usp=sharing
 
 ##
