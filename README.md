@@ -4,7 +4,7 @@
 - 🐱‍👤 Mobile Developer | Flutter - React-Native - Swift - Java | Full Stack.
 - 🌱 I'm currently learning Java/Swift/English ...
 - 📫 How to reach me: brunodall_@hotmail.com or https://www.linkedin.com/in/bruno-dall-41718b168/
-- ⚡ Curiosities: Graduated in Computer Science.
+- ⚡ Curiosities: Graduated in Computer Science and Specialist in Flutter/React-Native.
 - ✔  Certificates: https://drive.google.com/drive/folders/1pGkLN1360UFIHd8Sl8M3NDzVC-UNsghl?usp=sharing
 
 ##
