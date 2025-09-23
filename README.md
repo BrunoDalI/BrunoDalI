@@ -21,7 +21,7 @@
   <br><h3>Mobile Skills:</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,react,nodejs,flutter,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,react,flutter,kmp)](https://skillicons.dev)
 
 
 <!-- 
