@@ -2,7 +2,7 @@
 
 
 - 🐱‍👤 **Mobile Developer | Full Stack**  
-          Flutter • React Native • Swift • Java / PHP • NODE.js • Angular • JavaScript • TypeScript
+          Flutter • React Native • Swift • Java • KMP / PHP • NODE.js • Angular • JavaScript • TypeScript
 - 🌱 I'm currently learning Java/Swift/English ...
 - 📫 How to reach me: brunodall_@hotmail.com or https://www.linkedin.com/in/bruno-dall-41718b168/
 - ⚡ Curiosities: Graduated in Computer Science and Specialist in Flutter/React-Native.
@@ -20,8 +20,8 @@
   
 <div style="display: inline_block">
   <br><h3>Programming Language:</h3>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <!-- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <!--  C  -->
+    <!-- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <!--  C#  -->
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
