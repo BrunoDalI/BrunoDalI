@@ -16,11 +16,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"/>
 </div>
 ##
-  
 
 <div style="display: inline_block">
   <br><h3>Programming Language:</h3>
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+<div style="display: inline_block">
+  <br><h3>Programming Language:</h3>
     <!-- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <!--  C  -->
     <!-- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <!--  C#  -->
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
@@ -104,6 +108,6 @@
     <a href = "mailto:brunodall_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BrunoDalI/BrunoDalI/blob/output/github-contribution-grid-snake.svg)
  
 </div>
