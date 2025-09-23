@@ -1,8 +1,7 @@
 ### Hi there 👋✌
 
 
-- 🐱‍👤 **Mobile Developer | Full Stack**  
-  Flutter • React Native • Swift • Java • Node.js • PHP • Angular • JavaScript • TypeScript
+- 🐱‍👤 **Mobile Developer | Full Stack** - Flutter • React Native • Swift • Java • Node.js • PHP • Angular • JavaScript • TypeScript
 - 🌱 I'm currently learning Java/Swift/English ...
 - 📫 How to reach me: brunodall_@hotmail.com or https://www.linkedin.com/in/bruno-dall-41718b168/
 - ⚡ Curiosities: Graduated in Computer Science and Specialist in Flutter/React-Native.
