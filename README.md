@@ -17,13 +17,11 @@
 </div>
 
 
-<!-- <div style="display: inline_block">
-  <br><h3>Programming Language:</h3>
+ <div style="display: inline_block">
+  <br><h3>Mobile Skills:</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio&perline=3)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,react,nodejs,flutter,angular)](https://skillicons.dev)
-
 
 
 <!-- 
