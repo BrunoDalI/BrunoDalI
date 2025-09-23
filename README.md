@@ -16,15 +16,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+<!-- 
  <div style="display: inline_block">
   <br><h3>Mobile Skills:</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,react,flutter,kmp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,react,)](https://skillicons.dev)
 
-
-<!-- 
+<!---
 bitbucket
 css
 docker
@@ -130,7 +129,6 @@ vscode
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
 </div>
   
