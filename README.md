@@ -9,34 +9,7 @@
 
 ##
 
-<div align="center"> <a href="https://github.com/BrunoDalI"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDalI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"/> </a> </div>
-
-
-<div style="display: inline_block"> <br><h3>Programming Languages:</h3> <!-- Existing icons preserved --> <!-- Add backend relevance --> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-
-<h3>Markup Languages:</h3> <!-- unchanged -->
-
-<h3>Databases:</h3> <!-- Add MongoDB --> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-
-<h3>Frameworks:</h3> <!-- Add Express and Spring --> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-
-<h3>Software:</h3> <!-- unchanged -->
-
-<h3>Package Managers:</h3> <!-- unchanged -->
-
-<h3>Operating Systems:</h3> <!-- unchanged -->
-
-<h3>Hosting:</h3> <!-- Add Vercel and Netlify --> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"/>
-
-<h3>Design:</h3> <!-- unchanged -->
-
-<h3>Documentation:</h3> <!-- unchanged --> </div>
-
-<div> <a href="https://www.linkedin.com/in/bruno-dall-41718b168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/brunoodall/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/bruno.dall" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="mailto:brunodall@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> </div>
-
-
-
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/BrunoDalI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDalI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"/>
@@ -141,4 +114,4 @@
  
   <!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
-</div> -->
+</div>
